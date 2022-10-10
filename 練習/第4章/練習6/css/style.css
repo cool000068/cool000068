@@ -1,0 +1,8 @@
+﻿body {
+  font-family: Arial, "Hiragino Kaku Gothic ProN W3", Meiryo, sans-serif;
+}
+
+h1 {
+  color: white; font-weight: bold; font-size: 36px;
+  text-align: center; background-color: lightgreen;
+}
